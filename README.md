@@ -45,7 +45,7 @@ The extremely narrow range of ratings all clustered tightly around 90% to 88% in
 ### Game genre ranked by total games
 Findings shows a massive supply of Action and Adventure genre
 ### The biggest fan bases by total number of owner for each genre
-Findings shows that most of players owns game with in these genres especially actions games as its placed as the top one.
+Findings shows that Action games are the most owned genre among players, leading all other categories.
 ### Game genre ranking by average minutes played 
 Finding shows that players have longer session in more extreme or intense content such as Gore and Violent game gnere
 ### Recommended genre by total player recommendations
