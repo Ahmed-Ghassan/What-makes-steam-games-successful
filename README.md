@@ -1,5 +1,5 @@
 # What make steam games successful
-## Introduction:
+## Introduction
 ### What is steam? 
 The Steam platform is the world's largest digital distribution service for PC games, owned by Valve Corporation. It acts as a massive online storefront where users buy, download, and manage thousands of games, coupled with a comprehensive social ecosystem that includes friend lists, community forums and steam workshop where players can create their customized maps and games mode. 
 ### What this analysis about?
@@ -48,5 +48,20 @@ Findings shows a massive supply of Action and Adventure genre
 Findings shows that most of players owns game with in these genres especially actions games as its placed as the top one.
 ### Game genre ranking by average minutes played 
 Finding shows that players have longer session in more extreme or intense content such as Gore and Violent game gnere
-###
-
+### Recommended genre by total player recommendations
+Findings reflects that Action games are the most recommended  game genre by players, followed closely by Adventure games.
+###  Game genre ranking by average player rating
+Findings shows that RPG(role play game) leads the list slightly only  with an average rating of 50.0%, indicating number of positive reviews equal to negative reviews.
+### Genre most frequently to ahieve positive rating
+Finding shows that Adventure and Action game is the most frequent genre to achieve high positive rating.
+### Genre ranked by average positive rating in percentage 
+The extremely narrow range of ratings all clustered tightly around 89% indicates that successful games across these diverse genres are equally capable of earning high praise from players.
+### Top developers ranked by the number of positively reviewed games
+The visual ranks the top five developers based on the number of positively reviewed games they have released, while also breaking down the distribution to three reviews segments (Positive, Mixed, Negative). KOEI TECMO leads in overall volume of reviewed games, achieving 47 Positive and 57 Mixed titles, plus 6 Negative.
+### Top Publisher ranked by the number of positively reviewed games
+The visual ranks the top five publishers by the number of positively reviewed games they have released, while also breaking down the distribution to three reviews segments (Positive, Mixed, Negative) . Square Enix leads with 183 Positive but also has the largest volume of Mixed 153 and Negative 55 reviews overall.
+## Recommendation
+*	Focus on single-player as game Category and Action as a game genre. they have the most owners and are most likely to reach above 80% of total positive reviews.
+*	Include English and Simplified Chinese to access the largest communities of players on Steam.
+*	Consider adding VR Support as this category show strong average ratings and long playtime.
+*	Work with trusted publishers (like Square Enix or SEGA) to improve visibility and increase player trust.
