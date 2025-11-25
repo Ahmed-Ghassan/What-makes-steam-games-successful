@@ -65,3 +65,6 @@ The visual ranks the top five publishers by the number of positively reviewed ga
 *	Include English and Simplified Chinese to access the largest communities of players on Steam.
 *	Consider adding VR Support as this category show strong average ratings and long playtime.
 *	Work with trusted publishers (like Square Enix or SEGA) to improve visibility and increase player trust.
+## References
+* https://www.kaggle.com/datasets/artermiloff/steam-games-dataset
+*	https://store.steampowered.com/ 
